@@ -3,7 +3,6 @@ title: Hello World
 date: 2026-01-07 05:33:00 
 categories: [Hello World]
 tags: [hello-world]     # TAG names should always be lowercase
-author: <suraj_wandhare>
 ---
 
 # Hello World
